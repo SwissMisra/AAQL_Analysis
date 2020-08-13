@@ -1,0 +1,2 @@
+"Model 4.0.1 - Random Forest with RandomizedSearchCV","RandomForestClassifier(max_depth=15, n_estimators=300, random_state=42,
+                       verbose=2)","3.910394831658768","2.7088122605363987","1:52:28.731665"

@@ -1,0 +1,4 @@
+RMSE: 1.6063809542306402 
+ MAE: 1.0402298850574712 
+ Model: GradientBoostingClassifier(max_depth=5, min_samples_split=77, n_estimators=30,
+                           random_state=42, verbose=1)

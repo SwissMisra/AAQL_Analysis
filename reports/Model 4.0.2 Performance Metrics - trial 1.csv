@@ -1,0 +1,2 @@
+"Model 4.0.2 - Gradient Boosting with RandomizedSearchCV","GradientBoostingClassifier(max_depth=65, min_samples_split=102, n_estimators=30,
+                           random_state=42, verbose=1)","4.185589216361611","2.8793103448275863","6:02:28.505188"

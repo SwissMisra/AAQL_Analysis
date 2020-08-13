@@ -1,0 +1,3 @@
+"Model 4.0.3 - Gradient Boosting with Bayesian Optimization","GradientBoostingClassifier(learning_rate=0.5243565230708638, max_depth=8,
+                           min_samples_split=21, n_estimators=27,
+                           random_state=42, verbose=1)","7.348990599752393","6.157088122605364","0:52:16.712920"
