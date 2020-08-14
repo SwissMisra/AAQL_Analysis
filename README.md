@@ -6,7 +6,7 @@ This is a analysis of a dataset from the city of Austin, Texas on quality of lif
 Link to the original report and dataset is available at:
 https://data.austintexas.gov/City-Government/Final-Report-of-the-Asian-American-Quality-of-Life/hc5t-p62z
 
-This analysis utilizes feature engineering and modeling tools in the scikit-learn, seaborn, and PyCaret packages. These models indicate that the primary features of this survey that drive self-reported quality of life focus on access to healthcare, mental health, and English-speaking ability or language barriers.
+This analysis utilizes feature engineering and modeling tools in the scikit-learn, seaborn, and PyCaret packages. These models indicate that the primary features of this survey that drive self-reported quality of life focus on mental health, English-speaking ability and satisfaction with housing, followed by several features around having a close-knit community.
 
 The dataset also includes a processed dataframe with 4, 8, and 25 cluster labels, as a resource for future analysis and projects.
 
